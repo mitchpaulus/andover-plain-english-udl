@@ -2,10 +2,14 @@
 
 Syntax Highlighting for Andover Plain English Language programs
 
+![Screenshot](example.png)
+
 ## Installation
 
 The easiest way to install is to use the User Defined Language GUI.
-First download the `andover_plain_english.xml` file from this repository.
+First download the `andover_plain_english.xml` file from this
+repository. You can do this via the *Releases* page in GitHub
+[here](https://github.com/mitchpaulus/andover-plain-english-udl/releases).
 Using the menus, go to *Language > Define your language... > Import*.
 Find the `andover_plain_english.xml` you downloaded, and open that.
 
