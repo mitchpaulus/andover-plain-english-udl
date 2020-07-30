@@ -1,0 +1,5 @@
+Flow Control continued,"REPEAT..UNTIL|RETURN|ROTATE|RUN|STOP|SELECT...CASE|WHILE","Statement|Statement|Statement|Statement|Statement|Statement|Statement",,,,,,
+Input/Output,"LOGOUT|P|PRINT","Statement|Statement|Statement",,,,,,
+Logical,"AND|BITAND|BITNOT|BITOR|BITXOR|IS|IS BETWEEN|IS GREATER...|IS LESS...|NOT|OR","Operator|Operator|Operator|Operator|Operator|Operator|Operator|Operator|Operator|Operator|Operator",,,,,,
+Logs,"DeleteExtLog|GetExtLog|UpdateExtLog","Function|Function|Function",,,,,,
+Mathematical,"ABS|ACOS|ASIN|ATAN|ATAN2|AVERAGE|CEILING|COS|DIVIDED BY|EXPONENTIAL|FACTORIAL|FLOOR|LN|LOG|MAXIMUM|MAXITEM|MINIMUM|MINITEM|MINUS","Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Operator",,,,,,

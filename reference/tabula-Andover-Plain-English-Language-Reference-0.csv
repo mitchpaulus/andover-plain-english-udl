@@ -1,0 +1,7 @@
+Access Control,"ACCESSLOG|ACCESSSERVER|AVAILRECORDS|CABINETTAMPER|EVENTLOGSIZE|READERPOWER|SYSTEMSTATUS|UNIQUEPIN","System variable|System variable|System variable|System variable|System variable|System variable|System variable|System variable",,,,,,
+Alarm Counting,"ACTIVEALARMS|UNACKEDALARMS","System variable|System variable",,,,,,
+BACnet,"READPROPERTY|RELINQUISH|WRITEPROPERTY","Function|Function|Function",,,,,,
+Building Control,"MOVE|TURN","Statement|Statement",,,,,,
+Control of Inputs and Outputs,"IOUCOMMFLT#|STATUS#","System variable|System variable",,,,,,
+Control Over Communications,INITMODEM|DIAL|CLOSE|HANGUP|OPEN|READ,Function|Function|Function|Function|Function|Function,,,,,,
+Creating/Manipulating Files,"CLOSEFILE|FILE|OPENFILE|POSITIONFILE|READFILE|WRITEFILE|EOF","Function|Statement|Function|Function|Function|Function|Constant",,,,,,

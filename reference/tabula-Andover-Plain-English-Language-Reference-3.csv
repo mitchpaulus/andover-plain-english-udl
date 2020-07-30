@@ -1,0 +1,8 @@
+Mathematical,"MOD|PLUS|RANDOM|ROUND|SIN|SQRT|STANDARDDEVIATION|SUM|TIMES|TAN|TRUNCATE","Operator|Operator|Function|Function|Function|Function|Operator|Function|Function|Function|Function",,,,,,
+Miscellaneous,"ARG|CD|THE","Statement|Statement|Article",,,,,,
+Operating System Access,SHELL,Statement,,,,,,
+Retrieving Lists of Objects,"CLOSELIST|GETOBJECT|OBJECT|OPENLIST","Function|Function|Statement|Function",,,,,,
+String Manipulation,"ASC|CHR|LEFT|LENGTH|MID|NUMTOSTR|RIGHT|SEARCH|STRINGFILL|STRTODATE|STRTONUM|TAB","Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function|Function",,,,,,
+System Defined Constants,"FAILURE|OFF|ON|-ON|PASSED|SUCCESS","Constant|Constant|Constant|Constant|Constant|Constant",,,,,,
+Using Names in Programs,GETNAME,Function,,,,,,
+Value Assignment,"SET|MOVE|TURN ON|TURN OFF","Statement|Statement|Statement|Statement",,,,,,
